@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Khoi Nguyen | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      background: #0056b3;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    nav {
+      background: #eee;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #0056b3;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #0056b3;
+    }
+    .contact a {
+      color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Khoi Nguyen</h1>
+    <p>Information and Decision Sciences | UIC</p>
+    <p>+1 (312) 539-4795 | <a href="mailto:bnguye55@uic.edu">bnguye55@uic.edu</a> | Chicago, IL, USA | <a href="https://linkedin.com/in/khoi-nguyen-05n/" target="_blank">linkedin.com/in/khoi-nguyen-05n/</a></p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#experience">Experience</a>
+    <a href="#education">Education</a>
+    <a href="#awards">Certifications</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a student at the University of Illinois Chicago majoring in Information and Decision Sciences with a concentration in Supply Chain and Operations Management. I’m passionate about leadership, data-driven decision making, and helping others grow.</p>
+  </section>
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <h3>Orientation Leader, UIC New Student and Family Programs</h3>
+    <p>Welcome and guide 100+ new students and families, facilitating their transition to the UIC community by providing essential information on policies and resources. Proactively support orientation operations for a large cohort of students (100+), contributing through training, administrative duties, and maintaining a positive and adaptable approach.</p>
+    <h3>Business Ambassador, UIC College of Business Administration</h3>
+    <p>Orchestrate Business Seminars and cultural events, increasing student engagement by 25% through direct interaction, comprehensive Q&A, and resource sharing. Cultivate relationships with student organizations to promote professional growth and university programs, boosting student awareness. Support event planning efficient workflows by assisting with pre-event preparation, adding personalized touches to enhance student engagement.</p>
+    <h3>Financial Officer, UIC SAFC</h3>
+    <p>Manage an annual budget exceeding $150,000, ensuring proper allocation, compliance, and financial oversight, and evaluate organizational documents and protocols to inform funding decisions for student organizations. Analyze and organize financial data for SAFC reviews, delivering timely reports to support funding decisions. Collaborate with the Center for Student Involvement to monitor cash flow, ticket accounting, and evaluate funding proposals.</p>
+    <h3>Service Leader, SLCE</h3>
+    <p>Design and lead service cohort events for 50+ participants, optimizing logistics, registration, and engagement to ensure high satisfaction and participation.</p>
+  </section>
+  <section id="education">
+    <h2>Education</h2>
+    <p><strong>University of Illinois - Chicago</strong><br/>Bachelor's in Information and Decision Sciences, Concentrating in Supply Chain and Operations Management<br/>Dean's List 2024 | Expected: May 2027<br/>GPA: 4.0</p>
+  </section>
+  <section id="awards">
+    <h2>Certifications & Awards</h2>
+    <ul>
+      <li>Student Leader of February 2025 – UIC Business</li>
+      <li>Chancellor’s Student Service Award – UIC</li>
+    </ul>
+  </section>
+  <section id="projects">
+    <h2>Projects</h2>
+    <h3>Financial Planning and Forecasting (Team Captain)</h3>
+    <p>Utilized Goal Seek to identify sales growth needed to meet profit targets. Applied Solver for budget optimization across departments.</p>
+  </section>
+  <section id="skills">
+    <h2>Skills</h2>
+    <p><strong>Technical:</strong> Microsoft Office, Outlook, Excel, SQL, Google Workspace<br/>
+       <strong>Soft:</strong> Time Management, Organization, Communication, Leadership<br/>
+       <strong>Languages:</strong> Vietnamese, English</p>
+  </section>
+  <section id="contact" class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:bnguye55@uic.edu">bnguye55@uic.edu</a><br/>
+    Phone: <a href="tel:+13125394795">(312) 539-4795</a><br/>
+    LinkedIn: <a href="https://linkedin.com/in/khoi-nguyen-05n/" target="_blank">Khoi Nguyen</a></p>
+  </section>
+</body>
+</html>
